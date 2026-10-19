@@ -2,7 +2,7 @@
 
 Official release files and bug reports for Playstead, a Windows app for running Minecraft and Terraria servers on your own PC.
 
-The beta.6 prerelease is available for an in-app update trial. General public-beta readiness checks are still in progress. This repository does not contain the app's source code or signing credentials. Playstead is proprietary software; bundled third-party components keep their own licenses.
+Technical prereleases are available for in-app update trials. General public-beta readiness checks are still in progress. This repository does not contain the app's source code or signing credentials. Playstead is proprietary software; bundled third-party components keep their own licenses.
 
 ## Downloads
 
