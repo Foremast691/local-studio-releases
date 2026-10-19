@@ -2,11 +2,11 @@
 
 Official release files and bug reports for Playstead, a Windows app for running Minecraft and Terraria servers on your own PC.
 
-**The public beta is still being prepared. No approved installer is published here yet.** This repository does not contain the app's source code or signing credentials. Playstead is proprietary software; bundled third-party components keep their own licenses.
+The beta.6 prerelease is available for an in-app update trial. General public-beta readiness checks are still in progress. This repository does not contain the app's source code or signing credentials. Playstead is proprietary software; bundled third-party components keep their own licenses.
 
 ## Downloads
 
-Approved installers will appear on the [Releases page](https://github.com/Foremast691/local-studio-releases/releases). Do not treat a missing release, a screenshot or a file shared elsewhere as an official download. Never disable Windows security protections to run an installer.
+The [Releases page](https://github.com/Foremast691/local-studio-releases/releases) contains the installer, update manifest and limitations for the current trial. The installer is not Authenticode-signed; Windows may show unknown-publisher or SmartScreen warnings. The installed app verifies a separate update signature and the installer hash. Never disable Windows security protections to run an installer. Read the prerelease notes and keep a separate backup before testing.
 
 Servers run on your computer, not on ChunkArc hosting. Your PC and the app must stay on while friends are playing. Internet sharing uses your own Playit account and is subject to that service's availability and plan. Terraria/tModLoader features are experimental; do not assume Minecraft's sharing support applies to them.
 
